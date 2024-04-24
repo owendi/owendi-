@@ -1,7 +1,4 @@
 # owendi-
-Sure, here's a more creative and attractive README profile for you:
-
----
 
 # 👩‍💻 Sarah Owendi
 
